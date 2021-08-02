@@ -9,6 +9,7 @@ const int wet = 340;
 
 void setup() {
   Serial.begin(9600); 
+  // Serial.begin(115200); // NODEMCU
 }
 
 void loop() {
